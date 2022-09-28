@@ -1,0 +1,73 @@
+*
+
+body {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+nav a {
+    text-align: center;
+    font-weight: 00;
+
+
+}
+
+header div {
+    text-align: center;
+    background-color: rgb(216, 250, 239);
+}
+
+header img {
+    display: inline-block;
+    width: 20%;
+    border-radius: 10%;
+    border: solid 1px black;
+}
+
+header .resumen {
+    margin: auto;
+    width: 50%;
+}
+
+.start {
+    background-color: rgb(216, 250, 239);
+}
+
+.brand1 i {
+    color: red;
+}
+
+.brand2 {
+    color: rgb(64, 92, 250);
+}
+
+.brand3 {
+    color: rgb(169, 20, 255);
+}
+
+.brand4 {
+    color: rgb(73, 68, 76);
+}
+.brand5 {
+    color: rgb(10, 10, 10);
+}
+
+.mid {
+    background-color: rgb(216, 250, 239);
+}
+
+.bottom {
+    background-color: rgb(216, 250, 239);
+}
+
+footer {
+    background-color: rgba(47, 42, 42, 0.137);
+    margin: auto;
+
+}
+.rrss
+{
+
+    height: min-content;
+    margin-top: 30px; 
+}
